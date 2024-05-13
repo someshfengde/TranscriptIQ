@@ -1,6 +1,6 @@
 clarifai_grpc
 emoji
-langchain
+langchain==0.0.287
 matplotlib
 moviepy
 openai_whisper
