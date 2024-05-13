@@ -11,7 +11,7 @@ pytube
 st_annotated_text
 streamlit
 vaderSentiment
-openai
+openai==0.28
 yt_dlp
 ffmpeg-python
 spacy==3.5.0
